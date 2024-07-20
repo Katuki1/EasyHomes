@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7D71E3-17B2-4461-892C-2DCBE1F02845}|..\\EasyHomes.Infrastructure\\EasyHomes.Infrastructure.csproj|c:\\new volume (d)\\asp .net\\easyhomes.infrastructure\\persistence\\homesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331A759E-3A46-41D6-884A-77D989F1872C}|EasyHomes.API.csproj|c:\\new volume (d)\\asp .net\\easyhomes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{331A759E-3A46-41D6-884A-77D989F1872C}|EasyHomes.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331A759E-3A46-41D6-884A-77D989F1872C}|EasyHomes.csproj|c:\\new volume (d)\\asp .net\\easyhomes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331A759E-3A46-41D6-884A-77D989F1872C}|EasyHomes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7D71E3-17B2-4461-892C-2DCBE1F02845}|..\\EasyHomes.Infrastructure\\EasyHomes.Infrastructure.csproj|c:\\new volume (d)\\asp .net\\easyhomes.infrastructure\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC7BB42-785A-4AE6-9932-E90A3543366C}|EasyHomes.Domain\\EasyHomes.Domain.csproj|c:\\new volume (d)\\asp .net\\easyhomes\\easyhomes.domain\\entities\\housing\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC7BB42-785A-4AE6-9932-E90A3543366C}|EasyHomes.Domain\\EasyHomes.Domain.csproj|solutionrelative:easyhomes.domain\\entities\\housing\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC7BB42-785A-4AE6-9932-E90A3543366C}|EasyHomes.Domain\\EasyHomes.Domain.csproj|c:\\new volume (d)\\asp .net\\easyhomes\\easyhomes.domain\\entities\\housing\\housetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC7BB42-785A-4AE6-9932-E90A3543366C}|EasyHomes.Domain\\EasyHomes.Domain.csproj|solutionrelative:easyhomes.domain\\entities\\housing\\housetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC7BB42-785A-4AE6-9932-E90A3543366C}|EasyHomes.Domain\\EasyHomes.Domain.csproj|c:\\new volume (d)\\asp .net\\easyhomes\\easyhomes.domain\\entities\\housing\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC7BB42-785A-4AE6-9932-E90A3543366C}|EasyHomes.Domain\\EasyHomes.Domain.csproj|solutionrelative:easyhomes.domain\\entities\\housing\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331A759E-3A46-41D6-884A-77D989F1872C}|EasyHomes.csproj|c:\\new volume (d)\\asp .net\\easyhomes\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331A759E-3A46-41D6-884A-77D989F1872C}|EasyHomes.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331A759E-3A46-41D6-884A-77D989F1872C}|EasyHomes.csproj|c:\\new volume (d)\\asp .net\\easyhomes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{331A759E-3A46-41D6-884A-77D989F1872C}|EasyHomes.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T11:50:06.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:25:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomesDbContext.cs",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes.Infrastructure\\Persistence\\HomesDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EasyHomes.Infrastructure\\Persistence\\HomesDbContext.cs",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes.Infrastructure\\Persistence\\HomesDbContext.cs",
+              "RelativeToolTip": "..\\EasyHomes.Infrastructure\\Persistence\\HomesDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:17:25.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes.Infrastructure\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "..\\EasyHomes.Infrastructure\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes.Infrastructure\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "..\\EasyHomes.Infrastructure\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:44:29.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HouseType.cs",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\EasyHomes.Domain\\Entities\\Housing\\HouseType.cs",
+              "RelativeDocumentMoniker": "EasyHomes.Domain\\Entities\\Housing\\HouseType.cs",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\EasyHomes.Domain\\Entities\\Housing\\HouseType.cs",
+              "RelativeToolTip": "EasyHomes.Domain\\Entities\\Housing\\HouseType.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:08:10.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\EasyHomes.Domain\\Entities\\Housing\\House.cs",
+              "RelativeDocumentMoniker": "EasyHomes.Domain\\Entities\\Housing\\House.cs",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\EasyHomes.Domain\\Entities\\Housing\\House.cs",
+              "RelativeToolTip": "EasyHomes.Domain\\Entities\\Housing\\House.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:03:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\EasyHomes.Domain\\Entities\\Housing\\Address.cs",
+              "RelativeDocumentMoniker": "EasyHomes.Domain\\Entities\\Housing\\Address.cs",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\EasyHomes.Domain\\Entities\\Housing\\Address.cs",
+              "RelativeToolTip": "EasyHomes.Domain\\Entities\\Housing\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:07:29.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:27:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\New Volume (D)\\ASP .NET\\EasyHomes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T10:24:37.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
